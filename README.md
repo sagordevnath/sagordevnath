@@ -1,38 +1,28 @@
-<h1 align="center">Hi 👋, I'm Sagor Devnath</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
+### Hi there 👋, I'm Sagor Devnath
+#### A passionate Full stack web Develope
+![A passionate Full stack web Develope](https://media-exp1.licdn.com/dms/image/C4D16AQE9KG52z_rWaw/profile-displaybackgroundimage-shrink_350_1400/0/1600260035952?e=1666828800&v=beta&t=BZG9-lM1dzCne7OmhoqOzO9pmi4uFsYNAb99ajqU7yw)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagordevnath&label=Profile%20views&color=0e75b6&style=flat" alt="sagordevnath" /> </p>
+Hi, I am Sagor Devnath.
+I have several years of experience in Web development. To be with a well-regarded organization where personal standards of efficiency and honesty are expected and rewarded. Having a dynamic and challenging attitude toward my assigned responsibility empowered on me to do my level best work in any kind of situation for the organization.
 
-- 🔭 I’m currently working on **Alert IT Blog**
+Skills: REACT / JS / HTML / CSS / REDUX/ NODE / EXPRESS / MONGODB
 
-- 🌱 I’m currently learning **Redux, React Native, Next.js**
+- 🔭 I’m currently working on Alert IT Solution Blog 
+- 🌱 I’m currently learning Redux, Typescript, React Native, Next.js 
+- 👯 I’m looking to collaborate on Nath Manufacturers 
+- 🤔 I’m looking for help with AWS 
+- 💬 Ask me about React, JavaScript, Node.js, Express.js, Mongodb  
+- 📫 How to reach me: sagordevnath44@gmail.com 
+- 😄 Pronouns: Stay Hungry, stay foolish. 
+- ⚡ Fun fact: Everything is fair and lovely. 
 
-- 👯 I’m looking to collaborate on **Nath Manufacturers**
 
-- 🤝 I’m looking for help with **AWS**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sagordevnath)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/sagordevnath)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sagordevnath/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/aitizzo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/sagordevnath)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/sagor-devnath)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sagor-web.vercel.app)  
 
-- 👨‍💻 All of my projects are available at [https://sagor-web.vercel.app](https://sagor-web.vercel.app)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagordevnath)](https://github.com/anuraghazra/github-readme-stats)
 
-- 💬 Ask me about **React, JavaScript, Node.js, Mongodb**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sagordevnath&show_icons=true)  
 
-- 📫 How to reach me **sagordevnath44@gmail.com**
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sagordevnath)  
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ig184jI-kMEIGSv-SUxFt9-4MbALxO7L/view?usp=sharing](https://drive.google.com/file/d/1Ig184jI-kMEIGSv-SUxFt9-4MbALxO7L/view?usp=sharing)
-
-- ⚡ Fun fact **Everything is fair and lovely.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/sagordevnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sagordevnath" height="30" width="40" /></a>
-<a href="https://dev.to/sagordevnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sagordevnath" height="30" width="40" /></a>
-<a href="https://twitter.com/aitizzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aitizzo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sagordevnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagordevnath" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sagor-devnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sagor-devnath" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagordevnath&show_icons=true&locale=en&layout=compact" alt="sagordevnath" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagordevnath&" alt="sagordevnath" /></p>
+![Profile views](https://gpvc.arturio.dev/sagordevnath)  
