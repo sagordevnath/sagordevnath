@@ -30,16 +30,23 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 ### 👨‍💻 Programming Languages
 
 <p align="center">
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS3" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>   
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML5" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="Python" src="https://img.shields.io/badge/PYTHON%20-%231572B6.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%2343853D.svg?logo=typescript&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="JSON" src="https://img.shields.io/badge/JSON%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
 
 <p align="center">    
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="React" src="https://img.shields.io/badge/React%20-%23025E8C.svg?logo=react&logoColor=white"></a>
+<a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%2320232a.svg?logo=Node.js&logoColor=%white"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%2320232a.svg?logo=bootstrap&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Tailwind css" src="https://img.shields.io/badge/Tailwind Css%20-%2320232a.svg?logo=tailwind.css&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery%20-%2320232a.svg?logo=jquery&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React Native%20-%2320232a.svg?logo=reactnative&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js%20-%2320232a.svg?logo=next.js&logoColor=%2361DAFB"></a>
     
 </p>
 
