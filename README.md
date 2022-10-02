@@ -41,11 +41,12 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 
 <p align="center">    
 <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="React" src="https://img.shields.io/badge/React%20-%23025E8C.svg?logo=react&logoColor=white"></a>
-<a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%2320232a.svg?logo=Node.js&logoColor=%white"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%2320232a.svg?logo=bootstrap&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="Tailwind css" src="https://img.shields.io/badge/Tailwind Css%20-%2320232a.svg?logo=tailwind.css&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery%20-%2320232a.svg?logo=jquery&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React Native%20-%2320232a.svg?logo=reactnative&logoColor=%2361DAFB"></a>
+<a href="#"><img alt="Node.js" src ="https://img.shields.io/badge/Node.js-%234ea94b.svg?logo=node.js&logoColor=white"></a>
+<a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-%2300f.svg?logo=redux&logoColor=white"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23430098.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwind%20CSS-0078d7.svg?logo=tailwind-css&logoColor=white"></a>
+    <a href="#"><img alt="JQuery" src="https://img.shields.io/badge/Jquery-%2300f.svg?logo=jquery&logoColor=white"></a>
+    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React Native%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js%20-%2320232a.svg?logo=next.js&logoColor=%2361DAFB"></a>
     
 </p>
@@ -58,6 +59,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
+    <a href="#"><img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-%2300f.svg?logo=mongoose&logoColor=white"></a>
 </p>
 
 ### 💻 Software and Tools
