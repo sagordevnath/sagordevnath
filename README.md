@@ -45,6 +45,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-%2300f.svg?logo=redux&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23430098.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwind%20CSS-0078d7.svg?logo=tailwind-css&logoColor=white"></a>
+	<a href="#"><img alt="Sass" src="https://img.shields.io/badge/Sass%20-%23F05033.svg?logo=sass&logoColor=white"></a>
     <a href="#"><img alt="JQuery" src="https://img.shields.io/badge/Jquery-%2300f.svg?logo=jquery&logoColor=white"></a>
     <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React Native%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js%20-%2320232a.svg?logo=next.js&logoColor=%2361DAFB"></a>
